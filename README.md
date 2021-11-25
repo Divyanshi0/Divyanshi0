@@ -1,4 +1,4 @@
-- Hi, I’m Divyanshi Tiwari
+Todo list using html , css and javaScript
 
 <!---
 Divyanshi0/Divyanshi0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
